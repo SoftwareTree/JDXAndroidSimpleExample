@@ -1,0 +1,6 @@
+JDX_DATABASE JDX:jdbc:sqldroid:/data/data/com.softwaretree.jdxandroidsimpleexample/databases/simple_example.db;USER=sa;PASSWORD=sa;JDX_DBTYPE=SQLITE;
+;
+REM ************************************************************************
+CLASS com.softwaretree.jdxandroidsimpleexample.model.ClassA
+   PRIMARY_KEY aId
+;

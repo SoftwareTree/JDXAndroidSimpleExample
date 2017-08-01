@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- #ea80fc Purple A100    RGB = 234, 128, 252 -->    
+    <color name="app_color">#ea80fc</color>
+    <color name="bg_blue">#3152F9</color>
+</resources>
