@@ -3,7 +3,7 @@
 
 This project shows a simple Android app using JDXA ORM to exchange object data with an on-device SQLite relational database. Some highlights:  
 *	The object model consists of one POJO class (ClassA). 
-*	The mapping specification is succinct. 
+*	The mapping specification (in the file .../res/raw/simple_example.jdx) is simple, intuitive, non-intrusive, and succinct.
 *	API calls for CRUD operations are simple. 
 *	JDXA provides handy utility methods for displaying an object or a list of objects.  
 
